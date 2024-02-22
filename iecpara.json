@@ -1,0 +1,43 @@
+{
+  "roott": {
+    "DataItemCount": 2,
+    "DataItem": [
+      {
+        "no": 1,
+        "mapaddr_index": 2,
+        "para1": 1,
+        "para2": 6,
+        "para3": 1109,
+        "para4": 2,
+        "para5": 3,
+        "para6": 3,
+        "para7": 32800,
+        "para_comment": 0,
+        "para8": 100000,
+        "para9": 0,
+        "para10": 1,
+        "defaultValue": "1",
+        "IOTValue": "",
+        "desc": "分别为7个形参，如果用不到填0"
+      },
+      {
+        "no": 4,
+        "mapaddr_index": 8,
+        "para1": 0,
+        "para2": 0,
+        "para3": 0,
+        "para4": 0,
+        "para5": 0,
+        "para6": 0,
+        "para7": 32803,
+        "para_comment": 0,
+        "para8": 100,
+        "para9": 0,
+        "para10": 0,
+        "defaultValue": null,
+        "IOTValue": null,
+        "desc": ""
+      }
+    ]
+  }
+}

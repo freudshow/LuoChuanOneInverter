@@ -1,0 +1,98 @@
+{
+  "TcpModeEnable": 0,
+  "ClearData": 1,
+  "SendFramePeriod": 500,
+  "dataset": [
+    {
+      "DevIndex": "0",
+      "S_link": 3,
+      "S_linkDev": 1,
+      "data": [
+        {
+          "ModbusCmd": 4,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 1,
+          "GetRegCount": 4,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_s32",
+          "LowAddr": 1370,
+          "HighAddr": 1373,
+          "DataFormat": 2,
+          "StoreRegStartAddr": 1,
+          "ModbusRegAddr": 1370,
+          "DataTypeEnum": 5,
+          "KeyDec": [
+            "有功功率",
+            "无功功率"
+          ],
+          "KeyMode": [
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            1.0,
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 4,
+          "DataItemCount": 2,
+          "SlaveDevAddr": 1,
+          "GetRegCount": 4,
+          "AreaNum": 1,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u32",
+          "LowAddr": 1302,
+          "HighAddr": 1305,
+          "DataFormat": 2,
+          "StoreRegStartAddr": 3,
+          "ModbusRegAddr": 1302,
+          "DataTypeEnum": 2,
+          "KeyDec": [
+            "日发电量",
+            "总发电量"
+          ],
+          "KeyMode": [
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            0.1,
+            0.1
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 4,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 1,
+          "GetRegCount": 1,
+          "AreaNum": 2,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "LowAddr": 1308,
+          "HighAddr": 1308,
+          "DataFormat": 0,
+          "StoreRegStartAddr": 5,
+          "ModbusRegAddr": 1308,
+          "DataTypeEnum": 1,
+          "KeyDec": [
+            "运行状态"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
+    }
+  ]
+}

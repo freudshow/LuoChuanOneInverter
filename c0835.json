@@ -1,0 +1,46 @@
+{
+  "Period": 50,
+  "dataset": [
+    {
+      "DevIndex": 0,
+      "PollingInterval": 4,
+      "ArrayLogicalDes": "遥测量转多个遥信操作函数",
+      "ArrayLogical": 7,
+      "CallbackIndex": 0,
+      "data": [
+        {
+          "RtdbNo": 496,
+          "Desc": "设备[1]-运行状态-实时库号[496]",
+          "Type": 1,
+          "No": 0,
+          "InputOutPut": 0,
+          "SelectData": null
+        },
+        {
+          "RtdbNo": 500,
+          "Desc": "设备[0]-并网发电-实时库号[500]",
+          "Type": 0,
+          "No": 1,
+          "InputOutPut": 1,
+          "SelectData": "1"
+        },
+        {
+          "RtdbNo": 501,
+          "Desc": "设备[0]-故障停运-实时库号[501]",
+          "Type": 0,
+          "No": 2,
+          "InputOutPut": 1,
+          "SelectData": "2"
+        },
+        {
+          "RtdbNo": 502,
+          "Desc": "设备[0]-设备点检-实时库号[502]",
+          "Type": 0,
+          "No": 3,
+          "InputOutPut": 1,
+          "SelectData": "4"
+        }
+      ]
+    }
+  ]
+}
