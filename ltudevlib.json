@@ -14766,6 +14766,30 @@
       "GenerateVirtueYx": 0,
       "GenerateModbusSlaveAddr": 49941,
       "TypeProperty": 0
+    },
+    {
+      "RealDevOrderNum": 615,
+      "ProtolNum": 39,
+      "linkNo": 13,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 0,
+      "DataModelName": null,
+      "DevAddr": null,
+      "DevModelName": null,
+      "DevDescription": null,
+      "DevPort": null,
+      "Name": "端口状态监视遥信0",
+      "Unit": null,
+      "Ratio": 0.0,
+      "DeadSet": 0.0,
+      "RouteIdx": 0,
+      "NewYcOverLimite": 0.0,
+      "YcLowLimite": 0.0,
+      "LessOrMore": 0,
+      "GenerateVirtueYx": 0,
+      "GenerateModbusSlaveAddr": 53248,
+      "TypeProperty": 0
     }
   ]
 }
