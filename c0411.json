@@ -1,7 +1,7 @@
 {
   "Pad": {
     "TotalYcCount": 33,
-    "TotalYxCount": 13,
+    "TotalYxCount": 12,
     "TotalYkCount": 2,
     "TotalDDCount": 0,
     "TotalParameterCount": 0,
@@ -454,13 +454,13 @@
       "CurrentValue": 0.0,
       "Idx": 0
     },
-    {
+	{
       "No": 1,
-      "Name": "设备[0]-虚拟遥信2-实时库号[31]",
+      "Name": "设备[0]-断路器合闸-实时库号[603]",
       "Unit": null,
       "Addr": 2,
       "Xishu": 1.0,
-      "RealDevNo": 31,
+      "RealDevNo": 603,
       "type": 0,
       "CurrentValue": 0.0,
       "Idx": 1
