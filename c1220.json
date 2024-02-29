@@ -1,6 +1,6 @@
 {
   "applianceName": "未命名",
-  "TotalYcCount": 5,
+  "TotalYcCount": 11,
   "TotalYxCount": 1,
   "TotalYkCount": 0,
   "TotalDDCount": 0,
@@ -10,7 +10,7 @@
       "devNo": 0,
       "RegNo": 0,
       "type": 0,
-      "Name": "断路器分合闸状态",
+      "Name": "断路器合闸",
       "Ratio": 1.0,
       "BoardDevAddr": 0
     },
@@ -56,6 +56,60 @@
       "RegNo": 2,
       "type": 1,
       "Name": "UCA-断路器",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 3,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "当月发电量-配网开关",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 3,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "上月发电量-配网开关",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 3,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "当日发电量-配网开关",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 3,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "上日发电量-配网开关",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 3,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "今年发电量-配网开关",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 3,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "去年发电量-配网开关",
       "Ratio": 1.0,
       "BoardDevAddr": 0
     }

@@ -107,7 +107,7 @@
           "HighAddr": 1359,
           "DataFormat": 0,
           "KeyDec": [
-            "逆变器-A相电压"
+            "逆变器-A相电流"
           ],
           "KeyMode": [
             ""
@@ -133,7 +133,7 @@
           "HighAddr": 1361,
           "DataFormat": 0,
           "KeyDec": [
-            "逆变器-B相电压"
+            "逆变器-B相电流"
           ],
           "KeyMode": [
             ""
@@ -159,7 +159,7 @@
           "HighAddr": 1363,
           "DataFormat": 0,
           "KeyDec": [
-            "逆变器-C相电压"
+            "逆变器-C相电流"
           ],
           "KeyMode": [
             ""

@@ -50,16 +50,16 @@
       "CallbackIndex": 0,
       "data": [
         {
-          "RtdbNo": 603,
-          "Desc": "设备[0]-断路器分合闸状态遥测-实时库号[603]",
+          "RtdbNo": 604,
+          "Desc": "设备[0]-断路器分合闸状态遥测-实时库号[604]",
           "Type": 1,
           "No": 0,
           "InputOutPut": 0,
-          "SelectData": ""
+          "SelectData": null
         },
         {
-          "RtdbNo": 604,
-          "Desc": "设备[0]-断路器分合闸状态-实时库号[604]",
+          "RtdbNo": 603,
+          "Desc": "设备[0]-断路器合闸-实时库号[603]",
           "Type": 0,
           "No": 1,
           "InputOutPut": 1,
