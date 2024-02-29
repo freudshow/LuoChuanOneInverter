@@ -10,18 +10,18 @@
       "data": [
         {
           "ModbusCmd": 4,
+          "StoreRegStartAddr": 1,
           "DataItemCount": 2,
           "SlaveDevAddr": 1,
+          "ModbusRegAddr": 1370,
           "GetRegCount": 4,
           "AreaNum": 0,
           "DataProperty": 1,
           "DataType": "ModbusDataType_s32",
+          "DataTypeEnum": 5,
           "LowAddr": 1370,
           "HighAddr": 1373,
           "DataFormat": 2,
-          "StoreRegStartAddr": 1,
-          "ModbusRegAddr": 1370,
-          "DataTypeEnum": 5,
           "KeyDec": [
             "有功功率",
             "无功功率"
@@ -39,18 +39,18 @@
         },
         {
           "ModbusCmd": 4,
+          "StoreRegStartAddr": 3,
           "DataItemCount": 2,
           "SlaveDevAddr": 1,
+          "ModbusRegAddr": 1302,
           "GetRegCount": 4,
           "AreaNum": 1,
           "DataProperty": 1,
           "DataType": "ModbusDataType_u32",
+          "DataTypeEnum": 2,
           "LowAddr": 1302,
           "HighAddr": 1305,
           "DataFormat": 2,
-          "StoreRegStartAddr": 3,
-          "ModbusRegAddr": 1302,
-          "DataTypeEnum": 2,
           "KeyDec": [
             "日发电量",
             "总发电量"
@@ -68,18 +68,18 @@
         },
         {
           "ModbusCmd": 4,
+          "StoreRegStartAddr": 5,
           "DataItemCount": 1,
           "SlaveDevAddr": 1,
+          "ModbusRegAddr": 1308,
           "GetRegCount": 1,
           "AreaNum": 2,
           "DataProperty": 1,
           "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
           "LowAddr": 1308,
           "HighAddr": 1308,
           "DataFormat": 0,
-          "StoreRegStartAddr": 5,
-          "ModbusRegAddr": 1308,
-          "DataTypeEnum": 1,
           "KeyDec": [
             "运行状态"
           ],
@@ -88,6 +88,110 @@
           ],
           "KeyCoe": [
             1.0
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 4,
+          "StoreRegStartAddr": 6,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 1,
+          "ModbusRegAddr": 1359,
+          "GetRegCount": 1,
+          "AreaNum": 3,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 1359,
+          "HighAddr": 1359,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器-A相电压"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            0.1
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 4,
+          "StoreRegStartAddr": 7,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 1,
+          "ModbusRegAddr": 1361,
+          "GetRegCount": 1,
+          "AreaNum": 4,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 1361,
+          "HighAddr": 1361,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器-B相电压"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            0.1
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 4,
+          "StoreRegStartAddr": 8,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 1,
+          "ModbusRegAddr": 1363,
+          "GetRegCount": 1,
+          "AreaNum": 5,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 1363,
+          "HighAddr": 1363,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器-C相电压"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            0.1
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        },
+        {
+          "ModbusCmd": 4,
+          "StoreRegStartAddr": 9,
+          "DataItemCount": 1,
+          "SlaveDevAddr": 1,
+          "ModbusRegAddr": 1374,
+          "GetRegCount": 1,
+          "AreaNum": 6,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_s16",
+          "DataTypeEnum": 4,
+          "LowAddr": 1374,
+          "HighAddr": 1374,
+          "DataFormat": 0,
+          "KeyDec": [
+            "逆变器-功率因数"
+          ],
+          "KeyMode": [
+            ""
+          ],
+          "KeyCoe": [
+            0.01
           ],
           "DataType_Bit": null,
           "MultiTypeList": null

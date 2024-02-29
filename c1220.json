@@ -1,0 +1,63 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 5,
+  "TotalYxCount": 1,
+  "TotalYkCount": 0,
+  "TotalDDCount": 0,
+  "dataItem": [
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "断路器分合闸状态",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "断路器分合闸状态遥测",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 1,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "主站设定方阵有功值",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 2,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "UAB-断路器",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 2,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "UBC-断路器",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 12,
+      "devNo": 2,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "UCA-断路器",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}

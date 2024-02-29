@@ -1,6 +1,6 @@
 {
   "Pad": {
-    "TotalYcCount": 20,
+    "TotalYcCount": 3,
     "TotalYxCount": 10,
     "TotalYkCount": 2,
     "TotalDDCount": 0,
@@ -80,223 +80,36 @@
   "YCDataItem": [
     {
       "No": 0,
-      "Name": "设备[0]-A相电压-实时库号[269]",
+      "Name": "设备[0]-A相电压-断路器-实时库号[596]",
       "Unit": null,
       "Addr": 16385,
       "Xishu": 1.0,
-      "RealDevNo": 269,
+      "RealDevNo": 596,
       "type": 1,
       "CurrentValue": 0.0,
       "Idx": 0
     },
     {
       "No": 1,
-      "Name": "设备[0]-B相电压-实时库号[270]",
+      "Name": "设备[0]-B相电压-断路器-实时库号[597]",
       "Unit": null,
       "Addr": 16386,
       "Xishu": 1.0,
-      "RealDevNo": 270,
+      "RealDevNo": 597,
       "type": 1,
       "CurrentValue": 0.0,
       "Idx": 1
     },
     {
       "No": 2,
-      "Name": "设备[0]-C相电压-实时库号[271]",
+      "Name": "设备[0]-C相电压-断路器-实时库号[598]",
       "Unit": null,
       "Addr": 16387,
       "Xishu": 1.0,
-      "RealDevNo": 271,
+      "RealDevNo": 598,
       "type": 1,
       "CurrentValue": 0.0,
       "Idx": 2
-    },
-    {
-      "No": 3,
-      "Name": "设备[0]-并网测UAB-实时库号[497]",
-      "Unit": null,
-      "Addr": 16388,
-      "Xishu": 1.0,
-      "RealDevNo": 497,
-      "type": 1,
-      "CurrentValue": 0.0,
-      "Idx": 3
-    },
-    {
-      "No": 4,
-      "Name": "设备[0]-并网测UBC-实时库号[498]",
-      "Unit": null,
-      "Addr": 16389,
-      "Xishu": 1.0,
-      "RealDevNo": 498,
-      "type": 1,
-      "CurrentValue": 0.0,
-      "Idx": 4
-    },
-    {
-      "No": 5,
-      "Name": "设备[0]-并网测UCA-实时库号[499]",
-      "Unit": null,
-      "Addr": 16390,
-      "Xishu": 1.0,
-      "RealDevNo": 499,
-      "type": 1,
-      "CurrentValue": 0.0,
-      "Idx": 5
-    },
-    {
-      "No": 6,
-      "Name": "设备[0]-A相电流-实时库号[266]",
-      "Unit": null,
-      "Addr": 16391,
-      "Xishu": 1.0,
-      "RealDevNo": 266,
-      "type": 1,
-      "CurrentValue": 0.0,
-      "Idx": 6
-    },
-    {
-      "No": 7,
-      "Name": "设备[0]-B相电流-实时库号[267]",
-      "Unit": null,
-      "Addr": 16392,
-      "Xishu": 1.0,
-      "RealDevNo": 267,
-      "type": 1,
-      "CurrentValue": 0.0,
-      "Idx": 7
-    },
-    {
-      "No": 8,
-      "Name": "设备[0]-C相电流-实时库号[268]",
-      "Unit": null,
-      "Addr": 16393,
-      "Xishu": 1.0,
-      "RealDevNo": 268,
-      "type": 1,
-      "CurrentValue": 0.0,
-      "Idx": 8
-    },
-    {
-      "No": 9,
-      "Name": "设备[0]-总有功功率-实时库号[443]",
-      "Unit": null,
-      "Addr": 16394,
-      "Xishu": 1.0,
-      "RealDevNo": 443,
-      "type": 1,
-      "CurrentValue": 0.0,
-      "Idx": 9
-    },
-    {
-      "No": 10,
-      "Name": "设备[0]-总无功功率-实时库号[444]",
-      "Unit": null,
-      "Addr": 16395,
-      "Xishu": 1.0,
-      "RealDevNo": 444,
-      "type": 1,
-      "CurrentValue": 0.0,
-      "Idx": 10
-    },
-    {
-      "No": 11,
-      "Name": "设备[0]-总功率因数-实时库号[284]",
-      "Unit": null,
-      "Addr": 16396,
-      "Xishu": 1.0,
-      "RealDevNo": 284,
-      "type": 1,
-      "CurrentValue": 0.0,
-      "Idx": 11
-    },
-    {
-      "No": 12,
-      "Name": "设备[0]-电网频率-实时库号[288]",
-      "Unit": null,
-      "Addr": 16397,
-      "Xishu": 1.0,
-      "RealDevNo": 288,
-      "type": 1,
-      "CurrentValue": 0.0,
-      "Idx": 12
-    },
-    {
-      "No": 13,
-      "Name": "设备[1]-有功功率-实时库号[492]",
-      "Unit": null,
-      "Addr": 16398,
-      "Xishu": 1.0,
-      "RealDevNo": 492,
-      "type": 1,
-      "CurrentValue": 0.0,
-      "Idx": 13
-    },
-    {
-      "No": 14,
-      "Name": "设备[1]-无功功率-实时库号[493]",
-      "Unit": null,
-      "Addr": 16399,
-      "Xishu": 1.0,
-      "RealDevNo": 493,
-      "type": 1,
-      "CurrentValue": 0.0,
-      "Idx": 14
-    },
-    {
-      "No": 15,
-      "Name": "设备[1]-日发电量-实时库号[494]",
-      "Unit": null,
-      "Addr": 16400,
-      "Xishu": 1.0,
-      "RealDevNo": 494,
-      "type": 1,
-      "CurrentValue": 0.0,
-      "Idx": 15
-    },
-    {
-      "No": 16,
-      "Name": "设备[1]-总发电量-实时库号[495]",
-      "Unit": null,
-      "Addr": 16401,
-      "Xishu": 1.0,
-      "RealDevNo": 495,
-      "type": 1,
-      "CurrentValue": 0.0,
-      "Idx": 16
-    },
-    {
-      "No": 17,
-      "Name": "设备[1]-并网点日发电量-实时库号[500]",
-      "Unit": null,
-      "Addr": 16402,
-      "Xishu": 1.0,
-      "RealDevNo": 500,
-      "type": 1,
-      "CurrentValue": 0.0,
-      "Idx": 17
-    },
-    {
-      "No": 18,
-      "Name": "设备[1]-并网点月发电量-实时库号[501]",
-      "Unit": null,
-      "Addr": 16403,
-      "Xishu": 1.0,
-      "RealDevNo": 501,
-      "type": 1,
-      "CurrentValue": 0.0,
-      "Idx": 18
-    },
-    {
-      "No": 19,
-      "Name": "设备[1]-并网点总发电量-实时库号[502]",
-      "Unit": null,
-      "Addr": 16404,
-      "Xishu": 1.0,
-      "RealDevNo": 502,
-      "type": 1,
-      "CurrentValue": 0.0,
-      "Idx": 19
     }
   ],
   "YXDataItem": [
