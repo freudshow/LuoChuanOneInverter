@@ -1,7 +1,7 @@
 {
   "Pad": {
     "TotalYcCount": 33,
-    "TotalYxCount": 12,
+    "TotalYxCount": 13,
     "TotalYkCount": 2,
     "TotalDDCount": 0,
     "TotalParameterCount": 0,
@@ -454,7 +454,7 @@
       "CurrentValue": 0.0,
       "Idx": 0
     },
-	{
+    {
       "No": 1,
       "Name": "设备[0]-断路器合闸-实时库号[603]",
       "Unit": null,
